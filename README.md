@@ -1,168 +1,171 @@
-# 🌌 DHANYASHREE SEN
+<!-- ================= HEADER ================= -->
 
-<!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001F,25:3B0764,50:0E7490,75:BE185D,100:F97316&height=240&section=header&text=DHANYASHREE%20SEN&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20DEVELOPER&descAlignY=60&descSize=16&descColor=F1F5F9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,25:FFC0CB,50:F4A7C5,75:E6B8E8,100:D8B4E2&height=240&section=header&text=DHANYASHREE%20SEN&fontSize=48&fontColor=8B456A&fontAlignY=38&desc=COMPUTER%20SCIENCE%20STUDENT%20%7C%20ASPIRING%20DEVELOPER&descAlignY=60&descSize=15&descColor=9D6685&animation=fadeIn" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=750&height=45&lines=Learning+%7C+Building+%7C+Creating;DSA+%26+Problem+Solving;Python+%7C+C%2B%2B+%7C+SQL;Exploring+Web+Development;Turning+Ideas+Into+Projects." />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=20&duration=2800&pause=900&color=DB7093&center=true&vCenter=true&width=750&height=45&lines=Dreaming+%7C+Learning+%7C+Building;A+little+bit+of+code+and+a+lot+of+curiosity;DSA+%7C+Python+%7C+SQL;Turning+coffee+into+code+%E2%98%95;Growing+one+project+at+a+time+%F0%9F%8C%B7"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-dhanyashreeesen--creator-18181B?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Science-Student-7C3AED?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Developer-In%20Progress-0891B2?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-dhanyashreeesen--creator-E8A0BF?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Science-Student-F4A7C5?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Aspiring-Developer-D8B4E2?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhanyashreeesen-creator&label=PROFILE%20VIEWS&color=BE185D&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=dhanyashreeesen-creator&label=PROFILE%20VISITORS&color=DB7093&style=flat-square"/>
 </p>
 
 ---
 
-## 🌌 ABOUT ME
+## 🎀 ABOUT ME
 
 <p align="center">
-  <b>Computer Science Student</b> &nbsp;•&nbsp;
-  <b>Problem Solver</b> &nbsp;•&nbsp;
+  <b>Computer Science Student</b> &nbsp;♡&nbsp;
+  <b>Creative Thinker</b> &nbsp;♡&nbsp;
   <b>Aspiring Software Developer</b>
 </p>
 
 <p align="center">
-  I'm a Computer Science student passionate about technology,
-  programming, problem-solving and building things that make a difference.
+  Hi! I'm Dhanyashree 🌷
   <br/><br/>
-  Currently strengthening my foundations in Data Structures and Algorithms,
-  databases and web development while exploring different areas of software engineering.
+  A Computer Science student who loves exploring technology,
+  solving problems and bringing creative ideas to life through code.
   <br/><br/>
-  I believe in learning by doing, experimenting with ideas,
-  making mistakes and improving one project at a time.
+  Currently building my foundations in programming, Data Structures
+  and Algorithms, databases and web development.
+  <br/><br/>
+  I love learning new things, experimenting with projects
+  and finding ways to turn little ideas into something real.
 </p>
 
 <p align="center">
-  💻 Programming &nbsp;•&nbsp;
-  🧩 DSA &nbsp;•&nbsp;
-  🌐 Web Development &nbsp;•&nbsp;
-  🗄️ Databases &nbsp;•&nbsp;
-  🚀 Projects
+  💗 Code &nbsp;♡&nbsp;
+  🧸 Creativity &nbsp;♡&nbsp;
+  🌸 Learning &nbsp;♡&nbsp;
+  ✨ Building
 </p>
 
 ---
 
-## ⚡ CURRENTLY LEARNING
+## 🧁 CURRENTLY LEARNING
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-DSA-2563EB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-Programming-F4A7C5?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-DSA-DB91B5?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Programming-E6B8E8?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DBMS-Learning-7C3AED?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Development-Exploring-E11D48?style=for-the-badge&logo=html5&logoColor=white"/>
-</p>
-
----
-
-## 🛠️ TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,vscode,git,github&theme=dark"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-Database-E8A0BF?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DBMS-Learning-D8B4E2?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Development-Exploring-F4A7C5?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ---
 
-## 🎯 MY CURRENT FOCUS
+## 💻 MY TECH STACK
 
-| 🔹 | Focus |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,mysql,html,css,vscode,git,github&theme=light"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS%20Code-FFC0CB?style=for-the-badge&logo=visualstudiocode&logoColor=8B456A"/>
+  <img src="https://img.shields.io/badge/GitHub-F4A7C5?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-D8B4E2?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+## 🌷 MY CURRENT FOCUS
+
+| 🎀 | What I'm working on |
 |:---:|:---|
 | 🧩 | Data Structures & Algorithms |
 | 💻 | C and C++ Programming |
 | 🗄️ | DBMS & SQL |
 | 🌐 | Web Development |
 | 🚀 | Building Practical Projects |
-| 🧠 | Improving Problem-Solving Skills |
+| 🧠 | Becoming a Better Problem Solver |
 
 ---
 
-## 🚀 PROJECTS
+## 💗 MY LITTLE PROJECT CORNER
 
 <p align="center">
-  <i>Learning by building. Growing through every project.</i>
+  <i>Little ideas, lots of learning, and lines of code. 🌸</i>
 </p>
 
-| Project | Description | Tech |
+| 🌸 Project | ✨ Description | 🧁 Tech |
 |:---|:---|:---|
-| 📚 [THE-INKVERSE](https://github.com/dhanyashreeesen-creator/THE-INKVERSE) | A browser-based literary exploration game featuring seven rooms and seven literary worlds. | HTML |
-| 💰 [expense-tracker](https://github.com/dhanyashreeesen-creator/expense-tracker) | Command-line expense tracker with daily logging, spending summaries and report exports. | Python |
-| 📊 [student-result-analyzer](https://github.com/dhanyashreeesen-creator/student-result-analyzer) | Analyzes student marks, calculates grades, identifies toppers and flags failures. | Python |
-| 📁 [File-Organizer-Script](https://github.com/dhanyashreeesen-creator/File-Organizer-Script) | Python automation script that organizes files into folders based on file types. | Python |
-| 🧩 [LeetCode](https://github.com/dhanyashreeesen-creator/LeetCode) | Collection of coding practice solutions synchronized with GitHub. | C |
-| 🤖 [SIGNA](https://github.com/dhanyashreeesen-creator/SIGNA) | AI Document Verification project. | HTML |
+| [THE-INKVERSE](https://github.com/dhanyashreeesen-creator/THE-INKVERSE) | A literary exploration game featuring seven rooms and seven literary worlds. | HTML |
+| [expense-tracker](https://github.com/dhanyashreeesen-creator/expense-tracker) | Command-line expense tracker with spending summaries and report exports. | Python |
+| [student-result-analyzer](https://github.com/dhanyashreeesen-creator/student-result-analyzer) | Analyzes student marks, calculates grades and identifies toppers. | Python |
+| [File-Organizer-Script](https://github.com/dhanyashreeesen-creator/File-Organizer-Script) | Automatically organizes files into folders based on file types. | Python |
+| [LeetCode](https://github.com/dhanyashreeesen-creator/LeetCode) | Collection of coding practice solutions synchronized with GitHub. | C |
+| [SIGNA](https://github.com/dhanyashreeesen-creator/SIGNA) | AI Document Verification project. | HTML |
 
 ---
 
-## 📊 GITHUB ACTIVITY
+## 📊 MY GITHUB DIARY
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=dhanyashreeesen-creator&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyashreeesen-creator&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=dhanyashreeesen-creator&show_icons=true&theme=rose_pine&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyashreeesen-creator&layout=compact&theme=rose_pine&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanyashreeesen-creator&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=dhanyashreeesen-creator&theme=rose-pine&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyashreeesen-creator&bg_color=0B0014&color=67E8F9&line=C026D3&point=F97316&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhanyashreeesen-creator&bg_color=FFF0F5&color=9D6685&line=DB7093&point=F4A7C5&area=true&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-## 🌠 ROAD AHEAD
+## 🦢 DREAMS & GOALS
 
 <p align="center">
   🧩 <b>Master DSA</b>
-  &nbsp;→&nbsp;
-  💻 <b>Strengthen Programming</b>
-  &nbsp;→&nbsp;
-  🌐 <b>Build Applications</b>
-  &nbsp;→&nbsp;
+  &nbsp;♡&nbsp;
+  💻 <b>Build Skills</b>
+  &nbsp;♡&nbsp;
+  🌐 <b>Create Projects</b>
+  &nbsp;♡&nbsp;
   🚀 <b>Explore Opportunities</b>
-  &nbsp;→&nbsp;
+  &nbsp;♡&nbsp;
   🎯 <b>Software Developer</b>
 </p>
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌸 LET'S CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanyashree-s-396aa9376">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-F4A7C5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/dhanyashhreesen/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-E8A0BF?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/dhanyashreeesen">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HackerRank-D8B4E2?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://github.com/dhanyashreeesen-creator">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-DB91B5?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 <br/>
 
 <p align="center">
-  <b>「 Dream. Learn. Build. Repeat. 」</b>
+  <b>♡ A little progress every day adds up to big results. ♡</b>
+  <br/><br/>
+  🌷 Keep growing. Keep creating. Keep blooming. 🌷
 </p>
 
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,30:BE185D,65:0891B2,100:0F172A&height=130&section=footer" width="100%"/>
+<!-- ================= FOOTER ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF0F5,30:FFC0CB,65:F4A7C5,100:D8B4E2&height=140&section=footer" width="100%"/>
